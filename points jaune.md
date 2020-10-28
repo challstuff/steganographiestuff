@@ -38,7 +38,7 @@
 
 - On a donc ce qu'il faut pour décrypter le tout.
 
-- On va superposer notre première image avec celle-ci: (N'hésitez pas à re-dessinner par-dessus avec des couleurs plus vive)
+- On va superposez la première image avec celle-ci: (N'hésitez pas à re-dessinner par-dessus avec des couleurs plus vive)
 
 <img src="https://cdn.discordapp.com/attachments/768928242467340328/771103802438582297/unknown.png">
 
